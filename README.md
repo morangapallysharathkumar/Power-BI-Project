@@ -100,7 +100,10 @@ Customer_Churn_Analysis.pbix: The Power BI file containing the interactive dashb
 Presentation_Slides.pdf: A summary of the findings (converted from the original PPT).
 
 
-### Presented by: M. Sharath Kumar 
+Author: Morangapalli Sharath Kumar
 
+Education: B.sc (MSDS) from Govt Degree College of Khairatabad.
 
-Institution: Innomatics Research Labs
+Institution: Innomatics Research Labs.
+
+LinkedIn: [https://www.linkedin.com/in/sharath-kumar-morangapalli/]
